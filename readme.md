@@ -1,7 +1,5 @@
-# Plugins
+# Vaporwave
 
-This is a collection of plugins for the [DiscordInjections](https://github.com/DiscordInjections/DiscordInjections) project.
+(created by @benzarr410 / Gallium#1327 on Discord)
 
-## Contribution
-
-To contribute to this repository, please make a pull request that adheres to our [Contributing Guidelines](.github/contributing.md).
+A simple plugin that makes text v a p o r w a v e.
